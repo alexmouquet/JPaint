@@ -3,6 +3,8 @@ JPaint
 
 JPaint is a Java application allowing the user to draw movable shapes on a window and to color them.
 
+*Project realized in Nov. 2014 during my training as engineer*
+
 Techs
 -----------
 
